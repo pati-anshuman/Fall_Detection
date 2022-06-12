@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo60_frame 18.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo60_frame 18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>2</ymin>
+			<xmax>392</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>19</ymin>
+			<xmax>545</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

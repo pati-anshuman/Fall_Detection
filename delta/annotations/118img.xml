@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FallImages</folder>
+	<filename>118img.jpg</filename>
+	<path>C:\Users\zenier\Downloads\Fall Detection\FallDataset\FallImages\118img.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bending</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>57</ymin>
+			<xmax>115</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

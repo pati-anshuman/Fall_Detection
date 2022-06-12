@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam7.avi</folder>
+	<filename>530.png</filename>
+	<path>C:\Users\SREEJITA\Downloads\15\chute15\cam7.avi\530.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bending</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>109</ymin>
+			<xmax>299</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

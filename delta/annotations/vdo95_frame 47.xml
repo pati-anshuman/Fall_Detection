@@ -1,0 +1,38 @@
+<annotation>
+	<folder>xxx</folder>
+	<filename>vdo95_frame 47.jpg</filename>
+	<path>C:\Users\Hp\Desktop\messi\xxx\vdo95_frame 47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bending</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>103</ymin>
+			<xmax>156</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>137</ymin>
+			<xmax>273</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

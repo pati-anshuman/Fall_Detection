@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TheLittleShopofHorrors_fall_floor_u_cm_np1_ri_med_10</folder>
+	<filename>39.png</filename>
+	<path>/Users/anshumanpati/Desktop/videos/TheLittleShopofHorrors_fall_floor_u_cm_np1_ri_med_10/39.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>34</ymin>
+			<xmax>188</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

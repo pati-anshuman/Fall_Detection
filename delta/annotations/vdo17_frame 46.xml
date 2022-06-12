@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo17_frame 46.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo17_frame 46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bending</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>5</ymin>
+			<xmax>351</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sitting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>10</ymin>
+			<xmax>551</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

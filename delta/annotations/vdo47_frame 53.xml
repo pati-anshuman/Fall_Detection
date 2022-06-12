@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo47_frame 53.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo47_frame 53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PreFall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>25</ymin>
+			<xmax>393</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>56</ymin>
+			<xmax>549</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

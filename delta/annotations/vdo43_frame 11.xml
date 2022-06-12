@@ -1,0 +1,50 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo43_frame 11.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo43_frame 11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walking</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>65</ymin>
+			<xmax>560</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>28</ymin>
+			<xmax>400</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PreFall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>8</ymin>
+			<xmax>225</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

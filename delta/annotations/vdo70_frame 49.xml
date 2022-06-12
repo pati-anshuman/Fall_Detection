@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo70_frame 49.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo70_frame 49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>161</ymin>
+			<xmax>258</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

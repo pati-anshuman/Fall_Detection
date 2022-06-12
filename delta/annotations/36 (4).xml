@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TheLastManOnearth_fall_floor_f_cm_np1_fr_med_58</folder>
+	<filename>36.png</filename>
+	<path>/Users/anshumanpati/Desktop/videos/TheLastManOnearth_fall_floor_f_cm_np1_fr_med_58/36.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PreFall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>62</ymin>
+			<xmax>166</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TheBoondockSaints_fall_floor_h_cm_np1_ri_bad_117</folder>
+	<filename>48.png</filename>
+	<path>/Users/anshumanpati/Desktop/videos/TheBoondockSaints_fall_floor_h_cm_np1_ri_bad_117/48.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>7</ymin>
+			<xmax>309</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

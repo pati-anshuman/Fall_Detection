@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo10_frame 3.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo10_frame 3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>25</ymin>
+			<xmax>308</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>72</ymin>
+			<xmax>502</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

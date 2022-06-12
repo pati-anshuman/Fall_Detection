@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TheBoondockSaints_fall_floor_u_cm_np1_ba_bad_82</folder>
+	<filename>19.png</filename>
+	<path>/Users/anshumanpati/Desktop/videos/TheBoondockSaints_fall_floor_u_cm_np1_ba_bad_82/19.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>118</ymin>
+			<xmax>464</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

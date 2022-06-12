@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam2.avi</folder>
+	<filename>680.png</filename>
+	<path>C:\Users\Avirup\Desktop\annotations\13\chute13\cam2.avi\680.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>557</xmin>
+			<ymin>224</ymin>
+			<xmax>694</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

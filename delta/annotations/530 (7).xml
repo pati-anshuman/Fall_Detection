@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam6</folder>
+	<filename>530.png</filename>
+	<path>/Users/anshumanpati/Desktop/P/save5/videos/cam6/530.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>162</ymin>
+			<xmax>564</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

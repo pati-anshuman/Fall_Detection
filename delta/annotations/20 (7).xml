@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TheBoondockSaints_fall_floor_u_nm_np1_fr_med_70</folder>
+	<filename>20.png</filename>
+	<path>/Users/anshumanpati/Desktop/videos/TheBoondockSaints_fall_floor_u_nm_np1_fr_med_70/20.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PreFall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>48</ymin>
+			<xmax>382</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

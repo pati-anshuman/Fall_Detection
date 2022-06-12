@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TheBoondockSaints_fall_floor_f_nm_np1_ba_bad_40</folder>
+	<filename>0.png</filename>
+	<path>/Users/anshumanpati/Desktop/videos/TheBoondockSaints_fall_floor_f_nm_np1_ba_bad_40/0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>42</ymin>
+			<xmax>295</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

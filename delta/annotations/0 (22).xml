@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam8</folder>
+	<filename>0.png</filename>
+	<path>/Users/anshumanpati/Desktop/P/save4/videos/cam8/0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>5</ymin>
+			<xmax>470</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>THE_PROTECTOR_fall_floor_u_cm_np1_fr_med_56</folder>
+	<filename>40.png</filename>
+	<path>/Users/anshumanpati/Desktop/videos/THE_PROTECTOR_fall_floor_u_cm_np1_fr_med_56/40.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>10</ymin>
+			<xmax>404</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

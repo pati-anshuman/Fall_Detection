@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo65_frame 55.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo65_frame 55.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sitting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>3</ymin>
+			<xmax>411</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

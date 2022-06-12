@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo16_frame 25.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo16_frame 25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PreFall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>106</ymin>
+			<xmax>209</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

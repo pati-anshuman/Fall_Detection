@@ -1,0 +1,9 @@
+train: ../delta/images/train/ 
+val:  ../delta/images/val/
+test: ../delta/images/test/
+
+# number of classes
+nc: 6
+
+# class names
+names: ["Standing","Bending","PreFall","FellDown","Sitting","Walking"]

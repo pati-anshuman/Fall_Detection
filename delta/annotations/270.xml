@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam5</folder>
+	<filename>270.png</filename>
+	<path>/Users/anshumanpati/Desktop/P/save5/videos/cam5/270.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>102</ymin>
+			<xmax>314</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

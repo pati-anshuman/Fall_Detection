@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tmp_selected</folder>
+	<filename>479img2.jpg</filename>
+	<path>C:\Users\zenier\Downloads\Fall Detection\FallDataset\tmp_selected\479img2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PreFall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>75</ymin>
+			<xmax>252</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

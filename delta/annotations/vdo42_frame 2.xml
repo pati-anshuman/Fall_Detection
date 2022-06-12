@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo42_frame 2.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo42_frame 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>64</ymin>
+			<xmax>297</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Standing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>55</ymin>
+			<xmax>402</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

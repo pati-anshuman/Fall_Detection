@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FallImages</folder>
+	<filename>236img.jpg</filename>
+	<path>C:\Users\zenier\Downloads\Fall Detection\FallDataset\FallImages\236img.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FellDown</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>166</ymin>
+			<xmax>277</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

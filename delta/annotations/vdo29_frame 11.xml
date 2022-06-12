@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HMDB51d</folder>
+	<filename>vdo29_frame 11.jpg</filename>
+	<path>C:\Users\dell\Desktop\HMDB51d\vdo29_frame 11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>44</ymin>
+			<xmax>316</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

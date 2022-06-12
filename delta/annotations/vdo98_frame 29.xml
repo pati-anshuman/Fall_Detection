@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xxx</folder>
+	<filename>vdo98_frame 29.jpg</filename>
+	<path>C:\Users\Hp\Desktop\messi\xxx\vdo98_frame 29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PreFall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>103</ymin>
+			<xmax>253</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>
